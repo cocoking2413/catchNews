@@ -1,0 +1,397 @@
+﻿[
+    {
+        "ID": "1",
+        "PermissionkeyName": "Message",
+        "PermissionName": "消息"
+    },
+    {
+        "ID": "2",
+        "PermissionkeyName": "HR",
+        "PermissionName": "人事"
+    },
+    {
+        "ID": "3",
+        "PermissionkeyName": "CheckInOut",
+        "PermissionName": "考勤管理"
+    },
+    {
+        "ID": "4",
+        "PermissionkeyName": "Staff",
+        "PermissionName": "员工框架"
+    },
+    {
+        "ID": "5",
+        "PermissionkeyName": "Position",
+        "PermissionName": "职位管理"
+    },
+    {
+        "ID": "6",
+        "PermissionkeyName": "Administration",
+        "PermissionName": "行政"
+    },
+    {
+        "ID": "7",
+        "PermissionkeyName": "Approve",
+        "PermissionName": "审批"
+    },
+    {
+        "ID": "8",
+        "PermissionkeyName": "Document",
+        "PermissionName": "文件"
+    },
+    {
+        "ID": "9",
+        "PermissionkeyName": "DocumentManage",
+        "PermissionName": "文档管理"
+    },
+    {
+        "ID": "10",
+        "PermissionkeyName": "Report",
+        "PermissionName": "汇报"
+    },
+    {
+        "ID": "11",
+        "PermissionkeyName": "WorkLog",
+        "PermissionName": "工作日志"
+    },
+    {
+        "ID": "12",
+        "PermissionkeyName": "Award",
+        "PermissionName": "积分"
+    },
+    {
+        "ID": "13",
+        "PermissionkeyName": "AwardManage",
+        "PermissionName": "积分管理"
+    },
+    {
+        "ID": "14",
+        "PermissionkeyName": "PersonCenter",
+        "PermissionName": "个人中心"
+    },
+    {
+        "ID": "15",
+        "PermissionkeyName": "PersonCenterData",
+        "PermissionName": "个人资料"
+    },
+    {
+        "ID": "16",
+        "PermissionkeyName": "HiconSetting",
+        "PermissionName": "头像设置"
+    },
+    {
+        "ID": "17",
+        "PermissionkeyName": "NoticeSetting",
+        "PermissionName": "消息设置"
+    },
+    {
+        "ID": "18",
+        "PermissionkeyName": "HomeSetting",
+        "PermissionName": "首页设置"
+    },
+    {
+        "ID": "19",
+        "PermissionkeyName": "AppSetting",
+        "PermissionName": "应用设置"
+    },
+    {
+        "ID": "20",
+        "PermissionkeyName": "Platform",
+        "PermissionName": "平台"
+    },
+    {
+        "ID": "21",
+        "PermissionkeyName": "PlatformManage",
+        "PermissionName": "平台管理"
+    },
+    {
+        "ID": "22",
+        "PermissionkeyName": "Company",
+        "PermissionName": "企业"
+    },
+    {
+        "ID": "23",
+        "PermissionkeyName": "CompanyManage",
+        "PermissionName": "企业管理"
+    },
+    {
+        "ID": "24",
+        "PermissionkeyName": "CompanyCertificationAudit",
+        "PermissionName": "认证审核"
+    },
+    {
+        "ID": "25",
+        "PermissionkeyName": "CompanyApplicationLicensing",
+        "PermissionName": "应用授权"
+    },
+    {
+        "ID": "26",
+        "PermissionkeyName": "CompanyCount",
+        "PermissionName": "企业统计"
+    },
+    {
+        "ID": "27",
+        "PermissionkeyName": "CompanyAccount",
+        "PermissionName": "企业账户"
+    },
+    {
+        "ID": "28",
+        "PermissionkeyName": "CompanyInformation",
+        "PermissionName": "企业信息"
+    },
+    {
+        "ID": "29",
+        "PermissionkeyName": "CompanyAuthentication",
+        "PermissionName": "企业认证"
+    },
+    {
+        "ID": "30",
+        "PermissionkeyName": "CompanyLanguageSet",
+        "PermissionName": "语言设置"
+    },
+    {
+        "ID": "31",
+        "PermissionkeyName": "CompanyAccountSet",
+        "PermissionName": "账户设置"
+    },
+    {
+        "ID": "32",
+        "PermissionkeyName": "UseCount",
+        "PermissionName": "使用统计"
+    },
+    {
+        "ID": "33",
+        "PermissionkeyName": "StaffArchives",
+        "PermissionName": "员工档案"
+    },
+    {
+        "ID": "34",
+        "PermissionkeyName": "ApproveManage",
+        "PermissionName": "审批管理"
+    },
+    {
+        "ID": "35",
+        "PermissionkeyName": "MyApprove",
+        "PermissionName": "我的审批"
+    },
+    {
+        "ID": "36",
+        "PermissionkeyName": "ApproveRecord",
+        "PermissionName": "审批记录"
+    },
+    {
+        "ID": "37",
+        "PermissionkeyName": "ApproveFormManage",
+        "PermissionName": "审批表管理"
+    },
+    {
+        "ID": "38",
+        "PermissionkeyName": "ApproveRecycle",
+        "PermissionName": "回收站"
+    },
+    {
+        "ID": "39",
+        "PermissionkeyName": "MyWorkLog",
+        "PermissionName": "我的日志"
+    },
+    {
+        "ID": "40",
+        "PermissionkeyName": "OtherWorkLog",
+        "PermissionName": "他人日志"
+    },
+    {
+        "ID": "41",
+        "PermissionkeyName": "PlanReport",
+        "PermissionName": "计划报告"
+    },
+    {
+        "ID": "42",
+        "PermissionkeyName": "MessageManage",
+        "PermissionName": "消息管理"
+    },
+    {
+        "ID": "43",
+        "PermissionkeyName": "Cooperate",
+        "PermissionName": "协同"
+    },
+    {
+        "ID": "44",
+        "PermissionkeyName": "TaskManage",
+        "PermissionName": "任务管理"
+    },
+    {
+        "ID": "45",
+        "PermissionkeyName": "MyTask",
+        "PermissionName": "我的任务"
+    },
+    {
+        "ID": "46",
+        "PermissionkeyName": "TaskList",
+        "PermissionName": "任务列表"
+    },
+    {
+        "ID": "47",
+        "PermissionkeyName": "TaskRecyde",
+        "PermissionName": "回收站"
+    },
+    {
+        "ID": "48",
+        "PermissionkeyName": "Schedule",
+        "PermissionName": "日程管理"
+    },
+    {
+        "ID": "49",
+        "PermissionkeyName": "MyDocument",
+        "PermissionName": "我的文档"
+    },
+    {
+        "ID": "50",
+        "PermissionkeyName": "ShareDocument",
+        "PermissionName": "分享文档"
+    },
+    {
+        "ID": "51",
+        "PermissionkeyName": "DocumentRecycle",
+        "PermissionName": "回收站"
+    },
+    {
+        "ID": "52",
+        "PermissionkeyName": "CloudDisk",
+        "PermissionName": "云盘"
+    },
+    {
+        "ID": "53",
+        "PermissionkeyName": "MeetingManage",
+        "PermissionName": "会议管理"
+    },
+    {
+        "ID": "54",
+        "PermissionkeyName": "MyMeeting",
+        "PermissionName": "我的会议"
+    },
+    {
+        "ID": "55",
+        "PermissionkeyName": "MeetingSet",
+        "PermissionName": "会议设置"
+    },
+    {
+        "ID": "56",
+        "PermissionkeyName": "CarManage",
+        "PermissionName": "车辆管理"
+    },
+    {
+        "ID": "57",
+        "PermissionkeyName": "CarList",
+        "PermissionName": "车辆列表"
+    },
+    {
+        "ID": "58",
+        "PermissionkeyName": "CarSet",
+        "PermissionName": "车辆设置"
+    },
+    {
+        "ID": "59",
+        "PermissionkeyName": "MaterialManage",
+        "PermissionName": "物资管理"
+    },
+    {
+        "ID": "60",
+        "PermissionkeyName": "MyAward",
+        "PermissionName": "我的积分"
+    },
+    {
+        "ID": "61",
+        "PermissionkeyName": "AwardCount",
+        "PermissionName": "积分统计"
+    },
+    {
+        "ID": "62",
+        "PermissionkeyName": "AwardSet",
+        "PermissionName": "积分设置"
+    },
+    {
+        "ID": "63",
+        "PermissionkeyName": "ModifyPassWord",
+        "PermissionName": "修改密码"
+    },
+    {
+        "ID": "64",
+        "PermissionkeyName": "NewWorkLog",
+        "PermissionName": "写日志"
+    },
+    {
+        "ID": "65",
+        "PermissionkeyName": "CreateTask",
+        "PermissionName": "新建任务"
+    },
+    {
+        "ID": "66",
+        "PermissionkeyName": "CreateSchedule",
+        "PermissionName": "安排日程"
+    },
+    {
+        "ID": "67",
+        "PermissionkeyName": "CreateDocument",
+        "PermissionName": "新建文档"
+    },
+    {
+        "ID": "68",
+        "PermissionkeyName": "CreateApprove",
+        "PermissionName": "新建审批"
+    },
+    {
+        "ID": "69",
+        "PermissionkeyName": "UploadFile",
+        "PermissionName": "上传文件"
+    },
+    {
+        "ID": "70",
+        "PermissionkeyName": "NewContract",
+        "PermissionName": "新建联系人"
+    },
+    {
+        "ID": "71",
+        "PermissionkeyName": "InvitePartner",
+        "PermissionName": "邀请同事"
+    },
+    {
+        "ID": "72",
+        "PermissionkeyName": "ProductIntroduce",
+        "PermissionName": "产品介绍"
+    },
+    {
+        "ID": "73",
+        "PermissionkeyName": "ProductActive",
+        "PermissionName": "产品动态"
+    },
+    {
+        "ID": "74",
+        "PermissionkeyName": "SystemHelp",
+        "PermissionName": "系统帮助"
+    },
+    {
+        "ID": "75",
+        "PermissionkeyName": "LogOut",
+        "PermissionName": "退出系统"
+    },
+    {
+        "ID": "76",
+        "PermissionkeyName": "ContactList",
+        "PermissionName": "通讯录"
+    },
+    {
+        "ID": "77",
+        "PermissionkeyName": "Advertizement",
+        "PermissionName": "广告"
+    },
+    {
+        "ID": "78",
+        "PermissionkeyName": "Calendar",
+        "PermissionName": "日历"
+    },
+    {
+        "ID": "79",
+        "PermissionkeyName": "News",
+        "PermissionName": "新闻"
+    }
+]
